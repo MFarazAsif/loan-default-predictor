@@ -48,7 +48,7 @@ FastAPI · Streamlit · SQLite · Matplotlib · Seaborn · Git
 2\. Train model: python src/model.py
 
 3\. Start API: python -m uvicorn src.api:app --reload
-
+on to the new terminal
 4\. Start dashboard: python -m streamlit run src/dashboard.py
 
 
