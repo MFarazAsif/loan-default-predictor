@@ -1,6 +1,5 @@
-<img width="1733" height="775" alt="Screenshot 2026-06-03 072508" src="https://github.com/user-attachments/assets/80026004-8a2b-45b0-8478-ea45bf19d8eb" />
 <img width="1737" height="142" alt="Screenshot 2026-06-03 072451" src="https://github.com/user-attachments/assets/90c261bd-4b36-4e89-b2ce-a311dc352b9f" />
-
+<img width="1733" height="775" alt="Screenshot 2026-06-03 072508" src="https://github.com/user-attachments/assets/80026004-8a2b-45b0-8478-ea45bf19d8eb" />
 
 \# AI Loan Default Predictor
 
